@@ -113,9 +113,11 @@ main {
 }
 .egg img {
     height: 100%;
+    width: 100%;
 }
 .cup img {
     height: 100%;
+    width: 100%;
 }
 
 /* Photography and Graphic Boxes */
@@ -307,6 +309,16 @@ footer li {
     .box2-content h3 {
         font-size: 20px;
     }
+
+    .box2 {
+        height: 100%;
+    }
+    
+    .box2 img {
+        height: 100%;
+        width: 100%;
+    }
+
     header ul {
         display: none;
     }
