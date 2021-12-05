@@ -124,10 +124,6 @@ main {
     position: relative;
 }
 
-.box2 img{
-    height: 100%;
-}
-
 .box2-content {
     position: absolute;
     top: 25vw;
