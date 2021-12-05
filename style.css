@@ -108,7 +108,13 @@ main {
 
 /* Egg and Cup Boxes */
 
-.egg img, .cup img {
+.egg, .cup {
+    height: 100%;
+}
+.egg img {
+    height: 100%;
+}
+.cup img {
     height: 100%;
 }
 
