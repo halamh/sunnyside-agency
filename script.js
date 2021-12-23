@@ -14,13 +14,13 @@ function changeMenuBack() {
     event.target.style.borderRadius = "";
 };
 
-function assign(element) {
+function assign1(element) {
     element.onmouseover = changeMenu;
     element.onmouseout = changeMenuBack;
 };
 
 for (let i = 0; i<menu.length ; i++) {
-    assign(menu[i])
+    assign1(menu[i])
 };
 
 // Footer Menu Active State
